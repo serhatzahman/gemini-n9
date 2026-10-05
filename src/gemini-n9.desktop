@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Terminal=false
+Name=Gemini AI
+Exec=/usr/bin/python /opt/gemini-n9/main.py
+Icon=/opt/gemini-n9/icons/gemini-n9.png
+X-Window-Icon=
+X-HildonDesk-ShowInToolbar=true
+X-Osso-Type=application/x-executable
+Comment=Google Gemini AI Client for MeeGo Harmattan
+Categories=Network;Utility;

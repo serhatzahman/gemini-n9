@@ -1,0 +1,10 @@
+Package: gemini-n9
+Priority: optional
+Section: user/network
+Installed-Size: 250
+Maintainer: Community Developer <developer@example.com>
+Architecture: all
+Version: 1.0.22
+Depends: python, python-pyside.qtgui, python-pyside.qtdeclarative
+Description: Google Gemini AI Client for Nokia N9
+ A native MeeGo 1.2 Harmattan client for Google Gemini AI with chat and Imagen image generation support.

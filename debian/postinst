@@ -1,0 +1,10 @@
+#!/bin/sh
+set -e
+
+chmod +x /opt/gemini-n9/main.py
+
+if [ -x /usr/bin/update-desktop-database ]; then
+    /usr/bin/update-desktop-database -q /usr/share/applications || true
+fi
+
+exit 0
