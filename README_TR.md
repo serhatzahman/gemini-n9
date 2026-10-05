@@ -1,3 +1,4 @@
+<img width="1376" height="768" alt="banner gemini" src="https://github.com/user-attachments/assets/da7b630a-8944-45f3-8bb9-5d9522bb40f9" />
 # Nokia N9 için Google Gemini Yapay Zekâ İstemcisi (MeeGo 1.2 Harmattan)
 
 [![Platform](https://img.shields.io/badge/Platform-MeeGo%201.2%20Harmattan-blue.svg)](https://en.wikipedia.org/wiki/MeeGo)
