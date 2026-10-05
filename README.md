@@ -1,4 +1,5 @@
-<img width="1376" height="768" alt="banner gemini" src="https://github.com/user-attachments/assets/16bfc0cd-74c8-478a-8e1f-d60794221467" />
+<img width="1376" height="768" alt="Gemini_Generated_ıng" src="https://github.com/user-attachments/assets/874e5c05-9eae-48fe-bf1c-2dd718f011ce" />
+
 # Google Gemini Client for Nokia N9 (MeeGo 1.2 Harmattan)
 
 [![Platform](https://img.shields.io/badge/Platform-MeeGo%201.2%20Harmattan-blue.svg)](https://en.wikipedia.org/wiki/MeeGo)
