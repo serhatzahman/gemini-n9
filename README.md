@@ -12,7 +12,7 @@
 A fully native, feature-complete **Google Gemini AI Client** built specifically for the iconic **Nokia N9** running MeeGo 1.2 Harmattan.
 
 Designed from the ground up to respect MeeGo's *Blanco* design language, AMOLED display power characteristics, and the unique hardware capabilities of the Nokia N9.
-
+<img width="480" height="854" alt="Screenshot_20261005_214902" src="https://github.com/user-attachments/assets/88452696-4ee3-4711-855d-bcc0c7dcc7ab" />
 ---
 
 ## 🔑 Setting Up Your Google Gemini API Key
