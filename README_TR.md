@@ -11,7 +11,7 @@
 Efsanevi **Nokia N9** akıllı telefonu ve **MeeGo 1.2 Harmattan** işletim sistemi için sıfırdan geliştirilmiş, yerel (native) ve tam donanımlı **Google Gemini Yapay Zekâ İstemcisi**.
 
 MeeGo'nun ünlü *Blanco* tasarım diline, AMOLED ekranın saf siyah güç tasarrufuna ve N9'un benzersiz donanım yeteneklerine tam uyumlu olarak hazırlanmıştır.
-
+<img width="480" height="854" alt="Screenshot_20261005_214902" src="https://github.com/user-attachments/assets/88452696-4ee3-4711-855d-bcc0c7dcc7ab" />
 ---
 
 ## 🔑 Google Gemini API Anahtarınızı Tanımlama
