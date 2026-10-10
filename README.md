@@ -15,6 +15,7 @@ Designed from the ground up to respect MeeGo's *Blanco* design language, AMOLED 
 <img width="480" height="854" alt="Screenshot_20261005_214902" src="https://github.com/user-attachments/assets/88452696-4ee3-4711-855d-bcc0c7dcc7ab" />
 ---
 
+
 ## 🔑 Setting Up Your Google Gemini API Key
 
 This repository does **not** include hardcoded API keys. To use the application, provide your own free Gemini API key:
